@@ -1,0 +1,24 @@
+{"products":[
+{"id":1,"name":"Southern boubou","category":"Aquamarine"},
+{"id":2,"name":"Tsessebe","category":"Goldenrod"},
+{"id":3,"name":"Egret, great","category":"Mauv"},
+{"id":4,"name":"Kongoni","category":"Khaki"},
+{"id":5,"name":"Cockatoo, roseate","category":"Mauv"},
+{"id":6,"name":"American black bear","category":"Violet"},
+{"id":7,"name":"Lory, rainbow","category":"Purple"},
+{"id":8,"name":"Kangaroo, brush-tailed rat","category":"Puce"},
+{"id":9,"name":"Red-winged blackbird","category":"Maroon"},
+{"id":10,"name":"Hen, sage","category":"Turquoise"},
+{"id":11,"name":"Mouse, four-striped grass","category":"Teal"},
+{"id":12,"name":"Sable antelope","category":"Turquoise"},
+{"id":13,"name":"Osprey","category":"Maroon"},
+{"id":14,"name":"Crab, red lava","category":"Aquamarine"},
+{"id":15,"name":"Meerkat","category":"Blue"},
+{"id":16,"name":"Great cormorant","category":"Green"},
+{"id":17,"name":"Coyote","category":"Turquoise"},
+{"id":18,"name":"Heron, black-crowned night","category":"Red"},
+{"id":19,"name":"Kalahari scrub robin","category":"Puce"},
+{"id":20,"name":"Lapwing, southern","category":"Turquoise"},
+{"id":21,"name":"Turkey, australian brush","category":"Pink"}
+]
+}
